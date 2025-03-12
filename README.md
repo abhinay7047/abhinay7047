@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Agentic ai**
 
-- 🌱 I’m currently learning **AgenticAI, Phi-data,Modular Rag, Mlops**
+- 🌱 I’m currently learning **AgenticAI, CrewAI, LangChain Phi-data,Modular Rag, Mlops**
 
 - 👯 I’m looking to collaborate on **Gen AI Developer**
 
