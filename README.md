@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Abhinay Dubey</h1>
-<h3 align="center">A passionate Generative AI developer and Data Science expert</h3>
+<h3 align="center">A passionate Generative AI Developer and Data Science Expert</h3>
 
 - 🔭 I’m currently working on **Agentic ai**
 
